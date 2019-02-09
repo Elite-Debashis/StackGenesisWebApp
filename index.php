@@ -277,7 +277,7 @@ echo   "<main>
                   <polygon points=\"0,42 583,95 683,0 0,95\" opacity=\".2\" class=\"fill-default\" />
                 </svg>
                 <h4 class=\"display-3 font-weight-bold text-white\">Stack Genesis</h4>
-                <p class=\"lead text-italic text-white\">.</p>
+                <p class=\"lead text-italic text-white\">We are a group of Developers who are motivated and driven by the latest stacks and technologies. We dream of bringing each and everyone to the index of IT.</p>
               </blockquote>
             </div>
           </div>
@@ -327,7 +327,7 @@ echo   "<main>
                   <div class=\"pl-4\">
                     <h5 class=\"title text-success\">Awesome Support</h5>
                     <p>The Arctic Ocean freezes every winter and much of the sea-ice then thaws every summer, and that process will continue whatever.</p>
-                    <a href=\"#\" class=\"text-success\">Learn more</a>
+                    
                   </div>
                 </div>
               </div>
@@ -343,7 +343,7 @@ echo   "<main>
                   <div class=\"pl-4\">
                     <h5 class=\"title text-warning\">Modular Components</h5>
                     <p>The Arctic Ocean freezes every winter and much of the sea-ice then thaws every summer, and that process will continue whatever.</p>
-                    <a href=\"#\" class=\"text-warning\">Learn more</a>
+                  
                   </div>
                 </div>
               </div>
@@ -488,21 +488,21 @@ echo   "<main>
             <div class=\"icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary\">
               <i class=\"ni ni-settings text-primary\"></i>
             </div>
-            <h5 class=\"text-white mt-3\">Building tools</h5>
+            <h5 class=\"text-white mt-3\">Ideate</h5>
             <p class=\"text-white mt-3\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
           </div>
           <div class=\"col-lg-4\">
             <div class=\"icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary\">
               <i class=\"ni ni-ruler-pencil text-primary\"></i>
             </div>
-            <h5 class=\"text-white mt-3\">Grow your market</h5>
+            <h5 class=\"text-white mt-3\">Plan</h5>
             <p class=\"text-white mt-3\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
           </div>
           <div class=\"col-lg-4\">
             <div class=\"icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary\">
               <i class=\"ni ni-atom text-primary\"></i>
             </div>
-            <h5 class=\"text-white mt-3\">Launch time</h5>
+            <h5 class=\"text-white mt-3\">Execute</h5>
             <p class=\"text-white mt-3\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
           </div>
         </div>
@@ -554,13 +554,9 @@ echo   "<main>
       <div class=\"container\">
         <div class=\"row row-grid justify-content-center\">
           <div class=\"col-lg-8 text-center\">
-            <h2 class=\"display-3\">Do you love this awesome
-              <span class=\"text-success\">Design System for Bootstrap 4?</span>
-            </h2>
-            <p class=\"lead\">Cause if you do, it can be yours for FREE. Hit the button below to navigate to Creative Tim where you can find the Design System in HTML. Start a new project or give an old Bootstrap project a new look!</p>
-            <div class=\"btn-wrapper\">
-              <a href=\"#\" class=\"btn btn-primary mb-3 mb-sm-0\">Download HTML</a>
-            </div>
+            
+            
+          
             <div class=\"text-center\">
               <h4 class=\"display-4 mb-5 mt-5\">Available on these technologies</h4>
               <div class=\"row justify-content-center\">
@@ -633,7 +629,7 @@ echo   "<main>
       <div class=\"row align-items-center justify-content-md-between\">
         <div class=\"col-md-6\">
           <div class=\"copyright\">
-            &copy; 2018
+            &copy; 2019
             <a href=\"#\" target=\"_blank\">".$WebName."</a>.
           </div>
         </div>
