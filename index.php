@@ -63,7 +63,7 @@ echo   "<main>
                 <div class=\"card card-lift--hover shadow border-0\">
                   <div class=\"card-body py-5\">
                     <div class=\"icon icon-shape icon-shape-primary rounded-circle mb-4\">
-                      <i class=\"ni ni-check-bold\"></i>
+                      <i class=\"fa fa-android\"></i>
                     </div>
                     <h6 class=\"text-primary text-uppercase\">Android App Development</h6>
                     <p class=\"description mt-3\">We develop cutting-edge android apps with best UI / UX. </p>
@@ -80,7 +80,7 @@ echo   "<main>
                 <div class=\"card card-lift--hover shadow border-0\">
                   <div class=\"card-body py-5\">
                     <div class=\"icon icon-shape icon-shape-success rounded-circle mb-4\">
-                      <i class=\"ni ni-istanbul\"></i>
+                       <i class=\"ni ni-planet\"></i>
                     </div>
                     <h6 class=\"text-success text-uppercase\">Web Development</h6>
                     <p class=\"description mt-3\">Bring your ideas online with stack genesis innovative web development.</p>
@@ -97,7 +97,7 @@ echo   "<main>
                 <div class=\"card card-lift--hover shadow border-0\">
                   <div class=\"card-body py-5\">
                     <div class=\"icon icon-shape icon-shape-warning rounded-circle mb-4\">
-                      <i class=\"ni ni-planet\"></i>
+                      <i class=\"fa fa-desktop\"></i>
                     </div>
                     <h6 class=\"text-warning text-uppercase\">Desktop App Development</h6>
                     <p class=\"description mt-3\">Build cross-platform desktop applications that meets your requirements.</p>
@@ -117,10 +117,10 @@ echo   "<main>
                 <div class=\"card card-lift--hover shadow border-0\">
                   <div class=\"card-body py-5\">
                     <div class=\"icon icon-shape icon-shape-info rounded-circle mb-4\">
-                      <i class=\"ni ni-check-bold\"></i>
+                      <i class=\"fa fa-cloud\"></i>
                     </div>
                     <h6 class=\"text-info text-uppercase\">Internet Of Things - IOT</h6>
-                    <p class=\"description mt-3\">We develop cutting-edge android apps with best UI / UX. </p>
+                    <p class=\"description mt-3\">Stack genesis helps you build advance automation systems for your gadgets. </p>
                     <div>
                       <span class=\"badge badge-pill badge-primary\">Compact</span>
                       <span class=\"badge badge-pill badge-primary\">Fast</span>
@@ -134,7 +134,7 @@ echo   "<main>
                 <div class=\"card card-lift--hover shadow border-0\">
                   <div class=\"card-body py-5\">
                     <div class=\"icon icon-shape icon-shape-danger rounded-circle mb-4\">
-                      <i class=\"ni ni-istanbul\"></i>
+                      <i class=\"fa fa-comments\"></i>
                     </div>
                     <h6 class=\"text-danger text-uppercase\">Chatbots & Assistants</h6>
                     <p class=\"description mt-3\">Bring your ideas online with stack genesis innovative web development.</p>
@@ -151,14 +151,14 @@ echo   "<main>
                 <div class=\"card card-lift--hover shadow border-0\">
                   <div class=\"card-body py-5\">
                     <div class=\"icon icon-shape icon-shape-success rounded-circle mb-4\">
-                      <i class=\"ni ni-planet\"></i>
+                      <i class=\"fa fa-book\"></i>
                     </div>
-                    <h6 class=\"text-success text-uppercase\">Desktop App Development</h6>
-                    <p class=\"description mt-3\">Build cross-platform desktop applications that meets your requirements.</p>
+                   <h6 class=\"text-success text-uppercase\">Trainings</h6>
+                    <p class=\"description mt-3\">We organise workshops and trainings sessions for the undergraduates.</p>
                     <div>
-                      <span class=\"badge badge-pill badge-warning\">Java FX</span>
-                      <span class=\"badge badge-pill badge-warning\">Visual C++</span>
-                      <span class=\"badge badge-pill badge-warning\">C#</span>
+                      <span class=\"badge badge-pill badge-warning\">Workshops</span>
+                      <span class=\"badge badge-pill badge-warning\">Events</span>
+                      <span class=\"badge badge-pill badge-warning\">Clubs</span>
                     </div>
                     <a href=\"#\" class=\"btn btn-success mt-4\">Learn more</a>
                   </div>
@@ -479,7 +479,7 @@ echo   "<main>
       <div class=\"container pt-lg pb-300\">
         <div class=\"row text-center justify-content-center\">
           <div class=\"col-lg-10\">
-            <h2 class=\"display-3 text-white\">Build something</h2>
+            <h2 class=\"display-3 text-white\">One..Two..Three..Go!</h2>
             <p class=\"lead text-white\">According to the National Oceanic and Atmospheric Administration, Ted, Scambos, NSIDClead scentist, puts the potentially record low maximum sea ice extent tihs year down to low ice.</p>
           </div>
         </div>
