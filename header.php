@@ -68,7 +68,7 @@ echo "<!DOCTYPE html>
                     </div>
                     <div class=\"media-body ml-3\">
                       <h6 class=\"heading text-primary mb-md-1\">Android App Development</h6>
-                      <p class=\"description d-none d-md-inline-block mb-0\">Learn how to develop handcrafted apps tailored for day-to-day use and more.</p>
+                      <p class=\"description d-none d-md-inline-block mb-0\">Get yourself handcrafted apps tailored for day-to-day use and more.</p>
                     </div>
                   </a>
                   <a href=\"#\" class=\"media d-flex align-items-center\">
@@ -77,7 +77,7 @@ echo "<!DOCTYPE html>
                     </div>
                     <div class=\"media-body ml-3\">
                       <h6 class=\"heading text-primary mb-md-1\">Web Development</h6>
-                      <p class=\"description d-none d-md-inline-block mb-0\">Learn to build full stack professional websites on the go.</p>
+                      <p class=\"description d-none d-md-inline-block mb-0\">Open your world with full stack professional websites on the go.</p>
                     </div>
                   </a>
                   <a href=\"#\" class=\"media d-flex align-items-center\">
@@ -86,7 +86,7 @@ echo "<!DOCTYPE html>
                     </div>
                     <div class=\"media-body ml-3\">
                       <h5 class=\"heading text-warning mb-md-1\">Desktop App Development</h5>
-                      <p class=\"description d-none d-md-inline-block mb-0\">Build Native Desktop Apps Conveniently while learning with us. </p>
+                      <p class=\"description d-none d-md-inline-block mb-0\"> Get on hand convenient cross-platform Desktop Apps. </p>
                     </div>
                   </a>
                 </div>
