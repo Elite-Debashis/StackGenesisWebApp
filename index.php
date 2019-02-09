@@ -80,7 +80,7 @@ echo   "<main>
                 <div class=\"card card-lift--hover shadow border-0\">
                   <div class=\"card-body py-5\">
                     <div class=\"icon icon-shape icon-shape-success rounded-circle mb-4\">
-                      <i class=\"ni ni-planet\"></i>
+                       <i class=\"ni ni-planet\"></i>
                     </div>
                     <h6 class=\"text-success text-uppercase\">Web Development</h6>
                     <p class=\"description mt-3\">Bring your ideas online with stack genesis innovative web development.</p>
@@ -151,14 +151,14 @@ echo   "<main>
                 <div class=\"card card-lift--hover shadow border-0\">
                   <div class=\"card-body py-5\">
                     <div class=\"icon icon-shape icon-shape-success rounded-circle mb-4\">
-                      <i class=\"ni ni-planet\"></i>
+                      <i class=\"fa fa-book\"></i>
                     </div>
-                    <h6 class=\"text-success text-uppercase\">Trainings</h6>
+                   <h6 class=\"text-success text-uppercase\">Trainings</h6>
                     <p class=\"description mt-3\">We organise workshops and trainings sessions for the undergraduates.</p>
                     <div>
-                      <span class=\"badge badge-pill badge-warning\">Java FX</span>
-                      <span class=\"badge badge-pill badge-warning\">Visual C++</span>
-                      <span class=\"badge badge-pill badge-warning\">C#</span>
+                      <span class=\"badge badge-pill badge-warning\">Workshops</span>
+                      <span class=\"badge badge-pill badge-warning\">Events</span>
+                      <span class=\"badge badge-pill badge-warning\">Clubs</span>
                     </div>
                     <a href=\"#\" class=\"btn btn-success mt-4\">Learn more</a>
                   </div>
@@ -326,7 +326,9 @@ echo   "<main>
                   </div>
                   <div class=\"pl-4\">
                     <h5 class=\"title text-success\">Awesome Support</h5>
+
                     <p>We listen to you round the clock providing better possible solutions for your problems. Feel free to share and let us know.</p>
+
                     
                   </div>
                 </div>
@@ -341,9 +343,11 @@ echo   "<main>
                     </div>
                   </div>
                   <div class=\"pl-4\">
+
                     <h5 class=\"title text-warning\">Stay Updated!</h5>
                     <p>We promise to provide our members the best of our services to keep them updated with the latest stacks.</p>
-                  
+
+                 
                   </div>
                 </div>
               </div>
@@ -479,8 +483,8 @@ echo   "<main>
       <div class=\"container pt-lg pb-300\">
         <div class=\"row text-center justify-content-center\">
           <div class=\"col-lg-10\">
-            <h2 class=\"display-3 text-white\">Build something</h2>
-            <p class=\"lead text-white\">According to the National Oceanic and Atmospheric Administration, Ted, Scambos, NSIDClead scentist, puts the potentially record low maximum sea ice extent tihs year down to low ice.</p>
+            <h2 class=\"display-3 text-white\">One..Two..Three..Go!</h2>
+            <p class=\"lead text-white\">\"Talent wins games, but teamwork and intelligence win championships.\" <br>We Collaborate and make teams to complete and work on real world projects and puzzles that makes each one of us to have hands on experience on live projects and the latest stacks. </p>
           </div>
         </div>
         <div class=\"row row-grid mt-5\">
@@ -489,21 +493,27 @@ echo   "<main>
               <i class=\"ni ni-settings text-primary\"></i>
             </div>
             <h5 class=\"text-white mt-3\">Ideate</h5>
-            <p class=\"text-white mt-3\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+            <p class=\"text-white mt-3\">Analyze the requirements and solutions of the issue and make a blueprint of the entire process.</p>
+
           </div>
           <div class=\"col-lg-4\">
             <div class=\"icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary\">
               <i class=\"ni ni-ruler-pencil text-primary\"></i>
             </div>
             <h5 class=\"text-white mt-3\">Plan</h5>
-            <p class=\"text-white mt-3\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+            <p class=\"text-white mt-3\">Discuss together for the flaws , positive impacts and make necessary modules for the idea.</p>
+
           </div>
           <div class=\"col-lg-4\">
             <div class=\"icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary\">
               <i class=\"ni ni-atom text-primary\"></i>
             </div>
             <h5 class=\"text-white mt-3\">Execute</h5>
-            <p class=\"text-white mt-3\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+            <p class=\"text-white mt-3\">Deploy the Software based Solution to any of the Devices using the Latest Stacks.</p>
+
           </div>
         </div>
       </div>

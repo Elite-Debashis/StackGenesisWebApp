@@ -131,12 +131,7 @@ echo "<!DOCTYPE html>
                 <span class=\"nav-link-inner--text d-lg-none\">Instagram</span>
               </a>
             </li>
-            <li class=\"nav-item\">
-              <a class=\"nav-link nav-link-icon\" href=\"#\" target=\"_blank\" data-toggle=\"tooltip\" title=\"Follow us on Twitter\">
-                <i class=\"fa fa-twitter-square\"></i>
-                <span class=\"nav-link-inner--text d-lg-none\">Twitter</span>
-              </a>
-            </li>
+            
             <li class=\"nav-item\">
               <a class=\"nav-link nav-link-icon\" href=\"#\" target=\"_blank\" data-toggle=\"tooltip\" title=\"Star us on Github\">
                 <i class=\"fa fa-github\"></i>
