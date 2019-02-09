@@ -207,17 +207,31 @@ echo   "<main>
                 <i class=\"ni ni-settings-gear-65\"></i>
               </div>
               <h3>Our Mission</h3>
-              <p>We at </p>
+              <p>We at Stack Genesis have pledged to provide best IT Solutions , Work on Projects and to make a community of developers . </p>
               <ul class=\"list-unstyled mt-5\">
+              
+              <li class=\"py-2\">
+                  <div class=\"d-flex align-items-center\">
+                    <div>
+                      <div class=\"badge badge-circle badge-success mr-3\">
+                        <i class=\"ni ni-spaceship\"></i>
+                      </div>
+                    </div>
+                    <div>
+                      <h6 class=\"mb-0\">Building with best UI & UX Implementations</h6>
+                    </div>
+                  </div>
+                </li>
+              
                 <li class=\"py-2\">
                   <div class=\"d-flex align-items-center\">
                     <div>
                       <div class=\"badge badge-circle badge-success mr-3\">
-                        <i class=\"ni ni-settings-gear-65\"></i>
+                        <i class=\"ni ni-user-run\"></i>
                       </div>
                     </div>
                     <div>
-                      <h6 class=\"mb-0\">Carefully crafted components</h6>
+                      <h6 class=\"mb-0\">Make Undergraduates Industry Ready</h6>
                     </div>
                   </div>
                 </li>
@@ -225,11 +239,11 @@ echo   "<main>
                   <div class=\"d-flex align-items-center\">
                     <div>
                       <div class=\"badge badge-circle badge-success mr-3\">
-                        <i class=\"ni ni-html5\"></i>
+                        <i class=\"ni ni-bulb-61\"></i>
                       </div>
                     </div>
                     <div>
-                      <h6 class=\"mb-0\">Amazing page examples</h6>
+                      <h6 class=\"mb-0\">Work On Some Amazing Ideas</h6>
                     </div>
                   </div>
                 </li>
@@ -241,7 +255,7 @@ echo   "<main>
                       </div>
                     </div>
                     <div>
-                      <h6 class=\"mb-0\">Super friendly support team</h6>
+                      <h6 class=\"mb-0\">Making a community of Devs</h6>
                     </div>
                   </div>
                 </li>
@@ -262,8 +276,8 @@ echo   "<main>
                   <polygon points=\"0,52 583,95 0,95\" class=\"fill-default\" />
                   <polygon points=\"0,42 583,95 683,0 0,95\" opacity=\".2\" class=\"fill-default\" />
                 </svg>
-                <h4 class=\"display-3 font-weight-bold text-white\">Design System</h4>
-                <p class=\"lead text-italic text-white\">The Arctic Ocean freezes every winter and much of the sea-ice then thaws every summer, and that process will continue whatever happens.</p>
+                <h4 class=\"display-3 font-weight-bold text-white\">Stack Genesis</h4>
+                <p class=\"lead text-italic text-white\">We are a group of Developers who are motivated and driven by the latest stacks and technologies. We dream of bringing each and everyone to the index of IT.</p>
               </blockquote>
             </div>
           </div>
@@ -298,8 +312,8 @@ echo   "<main>
                 </div>
               </div>
               <div class=\"pl-4\">
-                <h4 class=\"display-3 text-white\">Modern Interface</h4>
-                <p class=\"text-white\">The Arctic Ocean freezes every winter and much of the sea-ice then thaws every summer, and that process will continue whatever.</p>
+                <h4 class=\"display-3 text-white\">Modern Stacks</h4>
+                <p class=\"text-white\">The services we provide are developed using modern languages, bringing the most out of the functionality.</p>
               </div>
             </div>
             <div class=\"card shadow shadow-lg--hover mt-5\">
@@ -312,8 +326,8 @@ echo   "<main>
                   </div>
                   <div class=\"pl-4\">
                     <h5 class=\"title text-success\">Awesome Support</h5>
-                    <p>The Arctic Ocean freezes every winter and much of the sea-ice then thaws every summer, and that process will continue whatever.</p>
-                    <a href=\"#\" class=\"text-success\">Learn more</a>
+                    <p>We listen to you round the clock providing better possible solutions for your problems. Feel free to share and let us know.</p>
+                    
                   </div>
                 </div>
               </div>
@@ -327,9 +341,9 @@ echo   "<main>
                     </div>
                   </div>
                   <div class=\"pl-4\">
-                    <h5 class=\"title text-warning\">Modular Components</h5>
-                    <p>The Arctic Ocean freezes every winter and much of the sea-ice then thaws every summer, and that process will continue whatever.</p>
-                    <a href=\"#\" class=\"text-warning\">Learn more</a>
+                    <h5 class=\"title text-warning\">Stay Updated!</h5>
+                    <p>We promise to provide our members the best of our services to keep them updated with the latest stacks.</p>
+                  
                   </div>
                 </div>
               </div>
@@ -474,21 +488,21 @@ echo   "<main>
             <div class=\"icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary\">
               <i class=\"ni ni-settings text-primary\"></i>
             </div>
-            <h5 class=\"text-white mt-3\">Building tools</h5>
+            <h5 class=\"text-white mt-3\">Ideate</h5>
             <p class=\"text-white mt-3\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
           </div>
           <div class=\"col-lg-4\">
             <div class=\"icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary\">
               <i class=\"ni ni-ruler-pencil text-primary\"></i>
             </div>
-            <h5 class=\"text-white mt-3\">Grow your market</h5>
+            <h5 class=\"text-white mt-3\">Plan</h5>
             <p class=\"text-white mt-3\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
           </div>
           <div class=\"col-lg-4\">
             <div class=\"icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary\">
               <i class=\"ni ni-atom text-primary\"></i>
             </div>
-            <h5 class=\"text-white mt-3\">Launch time</h5>
+            <h5 class=\"text-white mt-3\">Execute</h5>
             <p class=\"text-white mt-3\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
           </div>
         </div>
@@ -540,13 +554,9 @@ echo   "<main>
       <div class=\"container\">
         <div class=\"row row-grid justify-content-center\">
           <div class=\"col-lg-8 text-center\">
-            <h2 class=\"display-3\">Do you love this awesome
-              <span class=\"text-success\">Design System for Bootstrap 4?</span>
-            </h2>
-            <p class=\"lead\">Cause if you do, it can be yours for FREE. Hit the button below to navigate to Creative Tim where you can find the Design System in HTML. Start a new project or give an old Bootstrap project a new look!</p>
-            <div class=\"btn-wrapper\">
-              <a href=\"#\" class=\"btn btn-primary mb-3 mb-sm-0\">Download HTML</a>
-            </div>
+            
+            
+          
             <div class=\"text-center\">
               <h4 class=\"display-4 mb-5 mt-5\">Available on these technologies</h4>
               <div class=\"row justify-content-center\">
@@ -587,25 +597,13 @@ echo   "<main>
       </div>
     </section>
   </main>
+  
+  
+  
   <footer class=\"footer has-cards\">
-    <div class=\"container container-lg\">
-      <div class=\"row\">
-        <div class=\"col-md-6 mb-5 mb-md-0\">
-          <div class=\"card card-lift--hover shadow border-0\">
-            <a href=\"../examples/landing.html\" title=\"Landing Page\">
-              <img src=\"../assets/img/theme/landing.jpg\" class=\"card-img\">
-            </a>
-          </div>
-        </div>
-        <div class=\"col-md-6 mb-5 mb-lg-0\">
-          <div class=\"card card-lift--hover shadow border-0\">
-            <a href=\"../examples/profile.html\" title=\"Profile Page\">
-              <img src=\"../assets/img/theme/profile.jpg\" class=\"card-img\">
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
+    
+    
+    
     <div class=\"container\">
       <div class=\"row row-grid align-items-center my-md\">
         <div class=\"col-lg-6\">
@@ -631,7 +629,7 @@ echo   "<main>
       <div class=\"row align-items-center justify-content-md-between\">
         <div class=\"col-md-6\">
           <div class=\"copyright\">
-            &copy; 2018
+            &copy; 2019
             <a href=\"#\" target=\"_blank\">".$WebName."</a>.
           </div>
         </div>
