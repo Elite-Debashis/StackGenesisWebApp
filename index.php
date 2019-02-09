@@ -480,7 +480,7 @@ echo   "<main>
         <div class=\"row text-center justify-content-center\">
           <div class=\"col-lg-10\">
             <h2 class=\"display-3 text-white\">One..Two..Three..Go!</h2>
-            <p class=\"lead text-white\">According to the National Oceanic and Atmospheric Administration, Ted, Scambos, NSIDClead scentist, puts the potentially record low maximum sea ice extent tihs year down to low ice.</p>
+            <p class=\"lead text-white\">\"Talent wins games, but teamwork and intelligence win championships.\" <br>We Collaborate and make teams to complete and work on real world projects and puzzles that makes each one of us to have hands on experience on live projects and the latest stacks. </p>
           </div>
         </div>
         <div class=\"row row-grid mt-5\">
@@ -489,21 +489,21 @@ echo   "<main>
               <i class=\"ni ni-settings text-primary\"></i>
             </div>
             <h5 class=\"text-white mt-3\">Ideate</h5>
-            <p class=\"text-white mt-3\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <p class=\"text-white mt-3\">Analyze the requirements and solutions of the issue and make a blueprint of the entire process.</p>
           </div>
           <div class=\"col-lg-4\">
             <div class=\"icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary\">
               <i class=\"ni ni-ruler-pencil text-primary\"></i>
             </div>
             <h5 class=\"text-white mt-3\">Plan</h5>
-            <p class=\"text-white mt-3\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <p class=\"text-white mt-3\">Discuss together for the flaws , positive impacts and make necessary modules for the idea.</p>
           </div>
           <div class=\"col-lg-4\">
             <div class=\"icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary\">
               <i class=\"ni ni-atom text-primary\"></i>
             </div>
             <h5 class=\"text-white mt-3\">Execute</h5>
-            <p class=\"text-white mt-3\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <p class=\"text-white mt-3\">Deploy the Software based Solution to any of the Devices using the Latest Stacks.</p>
           </div>
         </div>
       </div>
