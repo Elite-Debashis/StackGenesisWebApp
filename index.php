@@ -207,17 +207,31 @@ echo   "<main>
                 <i class=\"ni ni-settings-gear-65\"></i>
               </div>
               <h3>Our Mission</h3>
-              <p>We at </p>
+              <p>We at Stack Genesis have pledged to provide best IT Solutions , Work on Projects and to make a community of developers . </p>
               <ul class=\"list-unstyled mt-5\">
+              
+              <li class=\"py-2\">
+                  <div class=\"d-flex align-items-center\">
+                    <div>
+                      <div class=\"badge badge-circle badge-success mr-3\">
+                        <i class=\"ni ni-spaceship\"></i>
+                      </div>
+                    </div>
+                    <div>
+                      <h6 class=\"mb-0\">Building with best UI & UX Implementations</h6>
+                    </div>
+                  </div>
+                </li>
+              
                 <li class=\"py-2\">
                   <div class=\"d-flex align-items-center\">
                     <div>
                       <div class=\"badge badge-circle badge-success mr-3\">
-                        <i class=\"ni ni-settings-gear-65\"></i>
+                        <i class=\"ni ni-user-run\"></i>
                       </div>
                     </div>
                     <div>
-                      <h6 class=\"mb-0\">Carefully crafted components</h6>
+                      <h6 class=\"mb-0\">Make Undergraduates Industry Ready</h6>
                     </div>
                   </div>
                 </li>
@@ -225,11 +239,11 @@ echo   "<main>
                   <div class=\"d-flex align-items-center\">
                     <div>
                       <div class=\"badge badge-circle badge-success mr-3\">
-                        <i class=\"ni ni-html5\"></i>
+                        <i class=\"ni ni-bulb-61\"></i>
                       </div>
                     </div>
                     <div>
-                      <h6 class=\"mb-0\">Amazing page examples</h6>
+                      <h6 class=\"mb-0\">Work On Some Amazing Ideas</h6>
                     </div>
                   </div>
                 </li>
@@ -241,7 +255,7 @@ echo   "<main>
                       </div>
                     </div>
                     <div>
-                      <h6 class=\"mb-0\">Super friendly support team</h6>
+                      <h6 class=\"mb-0\">Making a community of Devs</h6>
                     </div>
                   </div>
                 </li>
@@ -587,25 +601,13 @@ echo   "<main>
       </div>
     </section>
   </main>
+  
+  
+  
   <footer class=\"footer has-cards\">
-    <div class=\"container container-lg\">
-      <div class=\"row\">
-        <div class=\"col-md-6 mb-5 mb-md-0\">
-          <div class=\"card card-lift--hover shadow border-0\">
-            <a href=\"../examples/landing.html\" title=\"Landing Page\">
-              <img src=\"../assets/img/theme/landing.jpg\" class=\"card-img\">
-            </a>
-          </div>
-        </div>
-        <div class=\"col-md-6 mb-5 mb-lg-0\">
-          <div class=\"card card-lift--hover shadow border-0\">
-            <a href=\"../examples/profile.html\" title=\"Profile Page\">
-              <img src=\"../assets/img/theme/profile.jpg\" class=\"card-img\">
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
+    
+    
+    
     <div class=\"container\">
       <div class=\"row row-grid align-items-center my-md\">
         <div class=\"col-lg-6\">
